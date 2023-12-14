@@ -1,0 +1,23 @@
+.resumeListHeading{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    background-color: lightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: firebrick;
+}
+
+.topbox{
+    padding-left: 500px;
+}
+
+.inline{
+    display: inline-block;
+    margin-right: 19px;
+}
+
+.pic{
+    width: 500px;
+    padding-left: 950px;
+}
